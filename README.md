@@ -1,4 +1,3 @@
 Workflow
-========
 
 Techniques for Workflow
